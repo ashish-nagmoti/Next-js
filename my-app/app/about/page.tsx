@@ -1,6 +1,6 @@
 import React from "react";
 const About = () =>{
-    throw new Error("not implenemted")
+    // throw new Error("not implenemted")
     return(<div>
         
         <h1>About</h1>
